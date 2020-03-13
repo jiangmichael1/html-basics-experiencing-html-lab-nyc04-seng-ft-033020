@@ -1,0 +1,10 @@
+Pikachu
+Squirtle
+Worturtle
+Blastoise
+Charmander
+Charmeleon
+Charizard
+Bulbasaur
+Ivysaur
+Venusaur
